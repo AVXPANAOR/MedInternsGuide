@@ -3,7 +3,7 @@
 ## Introduction
 
 ### Rationale
-The internship period can be tough and challenging. The journey truly begins with the realization that you are ultimately responsible for your own education. Alongside this daunting task, interns frequently encounter complex and sometimes uncomfortable interpersonal situations involving attendings, residents, peers, and patients, which can be difficult to navigate. Based on personal experience, an approach rooted in curiosity, responsibility, and compassion can be beneficial in managing these challenges. Although interns may not enjoy much free time, their legal immunity and the reduced emphasis on exams and scores allow for a more flexible learning experience. This gives you the opportunity to explore what truly seems useful and learn in a manner that aligns with your preferred style. By exercising your autonomy and independence to select from a variety of learning resources, you can enhance your emotional engagement in the learning process, making the entire experience more rewarding, and less tedious.
+The internship period can be tough and challenging. The journey truly begins with the realization that you are ultimately responsible for your own education. Alongside this daunting task, interns frequently encounter complex and sometimes uncomfortable interpersonal situations involving attendings, residents, peers, and patients, which can be difficult to navigate. Based on personal experience, an approach rooted in curiosity, responsibility, and compassion can be beneficial in managing these challenges. Although interns may not enjoy much free time, their legal immunity and the reduced emphasis on exams and scores allow for a more flexible learning experience. This gives you the opportunity to explore what truly seems useful and to learn in a manner that aligns with your preferred style. By exercising your autonomy and independence to select from a variety of learning resources, you can enhance your emotional engagement in the learning process, making the entire experience more rewarding, and less tedious.
 
 ### What Is This Guide About?
 This guide aims to introduce alternative resources that the author found useful during their internship, along with instructions on how to access them. The goal is to provide you with a head start on your independent learning journey. Additionally, some general tips regarding personal well-being and interpersonal interactions will be shared to help you maintain your sanity during this challenging and stressful period.
@@ -19,7 +19,7 @@ This guide reflects the author's limited perspective, interests, educational gap
 **Note:** You are not expected to read __any__ of the following resources cover-to-cover during your internship. You are encouraged to read sections that you find clinically useful or simply interesting.
 
 ### Request
-This guide emerged from a collective spirit that emphasizes open access to and free circulation of knowledge. It also seeks to show gratitude to the senior interns, residents, and colleagues who supported the author during their training. Thus, __you are strongly encouraged to clone this guide, share it, modify it as you wish, and publish it under your own name.__
+This guide emerged from a collective spirit that emphasizes open access to and the free circulation of knowledge. It also seeks to show gratitude to the senior interns, residents, and colleagues who supported the author during their training. Thus, __you are strongly encouraged to clone this guide, share it, modify it as you wish, and publish it under your own name.__
 
 ## Resources
 
@@ -57,7 +57,7 @@ You are neither expected nor able to memorize every single detail required to di
 
 #### Medical Procedures
 * **Roberts and Hedges’ Clinical Procedures in Emergency Medicine and Acute Care**: A comprehensive textbook, covering almost every procedure you might encounter during your internship and beyond. It also includes many [videos demonstrating key procedures and techniques](https://drive.google.com/drive/folders/1idTnUFNWPBWsYAvQo09S43p10wavs3Z6?usp=share_link).
-* **Suture like a Surgeon: A Doctor’s Guide to Surgical Knots and Suturing Techniques...**: A quick read, covering the theoretical foundations pretty well, but terrible when it comes to actually teaching techniques.
+* **Suture Like a Surgeon: A Doctor’s Guide to Surgical Knots and Suturing Techniques...**: A quick read, covering the theoretical foundations pretty well, but terrible when it comes to actually teaching techniques.
 * **Atlas of Suturing Techniques:
 Approaches to Surgical Wound, Laceration, and Cosmetic Repair**: The go-to reference when you want to do anything more complex than a simple interrupted suture. It also comes with various perfect illustrations and some [accompanying videos](https://atlasofsuturingtechniques.com/index.html).
 
@@ -82,11 +82,11 @@ Approaches to Surgical Wound, Laceration, and Cosmetic Repair**: The go-to refer
 
 ---
 ### Surgery
-* **Sabiston Textbook of Surgery** *or* **Mulholland & Greenfield's Surgery**: Both are comprehensive general surgery textbooks. Some may find Sabiston to be more practically oriented with a lot of diagnostic and management algorithms, but on the other hand, Greenfield's chapters are better organized and easier to read, with a heavier focus on recent trends and developments. Ultimately, the choice between these two textbooks is a matter of personal taste.
+* **Sabiston Textbook of Surgery** *or* **Mulholland & Greenfield's Surgery**: Both are comprehensive general surgery textbooks. Some may find Sabiston to be more practically oriented with a lot of diagnostic and management algorithms; on the other hand, Greenfield's chapters are better organized and easier to read, with a heavier focus on recent trends and developments. Ultimately, the choice between these two textbooks is a matter of personal taste.
 * **[The American College of Surgeons' Comprehensive General Surgery Review](https://t.me/+70vDJ2nxPII4ZTlk)**: A collection of video lectures reviewing the entire general surgery, practical and up to date.
 * **[Western Trauma Association](https://westerntrauma.org/western-trauma-association-algorithms/)**: Check for the latest algorithms.
 
-**Note:** The author advises __against__ reading **Lawrence's Essentials of General Surgery** and **Schwartz's Principles of Surgery**. Both are badly organized and relatively outdated in comparison to the aforementioned textbooks.
+**Note:** The author advises __against__ reading **Lawrence's Essentials of General Surgery** and **Schwartz's Principles of Surgery**. Both are poorly organized and relatively outdated in comparison to the aforementioned textbooks.
 
 ---
 ### OB/GYN
@@ -115,13 +115,13 @@ Approaches to Surgical Wound, Laceration, and Cosmetic Repair**: The go-to refer
 ---
 ### Neurology & Neurosurgery
 #### General Neurology & Neurosurgery
-* **Merritt’s Neurology**: A comprehensive general neurology textbook. __Section III__ is a must-read. Unbelievably Readable.
+* **Merritt’s Neurology**: A comprehensive general neurology textbook. __Section III__ is a must-read. Unbelievably readable.
 * **Mayo Clinic Neurology Board Review**: Very comprehensive, yet concise, with so many great tables. A personal favourite. 
 * **Greenberg’s Handbook of Neurosurgery**: __Trauma__ chapters are essential. 
 * **Continuum**: An educational neurology journal, reviewing the entire field of neurology every three years. Every single issue is a masterpiece. Up to date, very readable, and aesthetically pleasing. A little hard to pirate.
 * **Clinical Reasoning in Neurology:
 A Case-Based Approach**: Also published by the AAN, it contains various case presentations and walks you through diagnostic reasoning, work-up, and management. Aimed mostly at residents and fellows. A personal favourite.
-* **[Virtual Resident Lecture Series](https://youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-&si=cIwpB_VplL48mmEh)**: A series of periodical lectures reviewing certain topics in neurology by the American Academy of Neurology. Highly recommended.
+* **[Virtual Resident Lecture Series](https://youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-&si=cIwpB_VplL48mmEh)**: A series of periodic lectures reviewing certain topics in neurology by the American Academy of Neurology. Highly recommended.
 * **[Neurophile](https://youtube.com/@theneurophile?si=6AWFW8NGbS8R9A35)**: A collection of highly visualized and aesthetically pleasing educational neurology videos, targeting a wider range of audiences, from medical students to neurovascular fellows.
 
 #### Localization
@@ -176,7 +176,7 @@ ___
 
 #### Sociopolitical and Humanistic Aspects
 * **Psychiatric Ethics**: Chapters on __Boundary violations__ and __The Abuse of Psychiatry__ are recommended readings.
-* **Conversations in Critical Psychiatry**: These conversations engage prominent commentators within and outside the profession who have made meaningful criticisms of the status quo. Also available on [substack](https://psychiatrymargins.com).
+* **Conversations in Critical Psychiatry**: These conversations engage prominent commentators within and outside the profession who have made meaningful criticisms of the status quo. Also available on [Substack](https://psychiatrymargins.com).
 * **[The Maudsley Debates](https://kcl.ac.uk/ioppn/maudsley-debates)**: A series of public debates mostly about sociopolitical, ethical, and legal issues in psychiatry.
 * **[Grief Lecture Presentation](https://drive.google.com/file/d/1GXd2tJZeR7D1j55yn-HQPrg1zWQbH9uQ/view?usp=share_link)**: A brief review of grief and its pathological forms. Final references are useful.
 
