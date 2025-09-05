@@ -176,7 +176,7 @@ ___
 
 #### Sociopolitical and Humanistic Aspects
 * **Psychiatric Ethics**: Chapters on __Boundary violations__ and __The Abuse of Psychiatry__ are recommended readings.
-* **Conversations in Critical Psychiatry**: These conversations engage prominent commentators within and outside the profession who have made meaningful criticisms of the status quo. Also available on [substack](psychiatrymargins.com).
+* **Conversations in Critical Psychiatry**: These conversations engage prominent commentators within and outside the profession who have made meaningful criticisms of the status quo. Also available on [substack](https://psychiatrymargins.com).
 * **[The Maudsley Debates](https://kcl.ac.uk/ioppn/maudsley-debates)**: A series of public debates mostly about sociopolitical, ethical, and legal issues in psychiatry.
 * **[Grief Lecture Presentation](https://drive.google.com/file/d/1GXd2tJZeR7D1j55yn-HQPrg1zWQbH9uQ/view?usp=share_link)**: A brief review of grief and its pathological forms. Final references are useful.
 
