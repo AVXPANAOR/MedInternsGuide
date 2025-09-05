@@ -59,7 +59,7 @@ You are neither expected nor able to memorize every single detail required to di
 * **Roberts and Hedges’ Clinical Procedures in Emergency Medicine and Acute Care**: A comprehensive textbook, covering almost every procedure you might encounter during your internship and beyond. It also includes many [videos demonstrating key procedures and techniques](https://drive.google.com/drive/folders/1idTnUFNWPBWsYAvQo09S43p10wavs3Z6?usp=share_link).
 * **Suture like a Surgeon: A Doctor’s Guide to Surgical Knots and Suturing Techniques...**: A quick read, covering the theoretical foundations pretty well, but terrible when it comes to actually teaching techniques.
 * **Atlas of Suturing Techniques:
-Approaches to Surgical Wound, Laceration, and Cosmetic Repair**: The go-to reference when you want to do anything more complex than a simple interrupted suture. It also comes with various perfect illusterations and some [accompanying videos](https://atlasofsuturingtechniques.com/index.html).
+Approaches to Surgical Wound, Laceration, and Cosmetic Repair**: The go-to reference when you want to do anything more complex than a simple interrupted suture. It also comes with various perfect illustrations and some [accompanying videos](https://atlasofsuturingtechniques.com/index.html).
 
 #### Clinical Reasoning and Personal Competencies
 * **[Case Records of the Massachusetts General Hospital](https://nejm.org/browse/nejm-article-type/case-records-of-the-massachusetts-general-hospital)**: A massive collection of case presentations that walk you through diagnosis, workup, and management, published by the prestigious New England Journal of Medicine. Free for Iranian users.
@@ -96,7 +96,7 @@ Approaches to Surgical Wound, Laceration, and Cosmetic Repair**: The go-to refer
 ---
 ### Cardiology
 * **Fuster and Hurst’s The Heart**: A comprehensive cardiology textbook with excellent chapters on __physical examination and differential diagnosis__. A personal favourite, but a little dense.
-* **Textbook of Emergency Cardiology**: A practical and relatively conscice textbook. Very readable and well-organized.
+* **Textbook of Emergency Cardiology**: A practical and relatively concise textbook. Very readable and well-organized.
 * **Goldberger's Clinical Electrocardiography: A Simplified Approach**: Amazing ECG textbook that focuses on understanding, rather than memorization.
 * **[Harvard's ECG Wave-Maven](https://ecg.bidmc.harvard.edu/maven/mavenmain.asp)**: A collection of annotated ECGs, excellent for self-examination and hands-on practice.
 * **[Life In The Fast Lane](https://litfl.com)**: A Lot of ECG cases suitable for self-examination and hands-on practice, and many other critical medicine resources.
@@ -222,7 +222,7 @@ Without trying to enter the shark-infested waters of the philosophy of medicine 
 ### Mental Health and Sleep
 Internship is tough, and you are not Superman, or constantly on coke-I hope. You, like many of us, may fall prey to burnout, anxiety, mood disorders, and various psychiatric disorders. Always take adequate rest when you can. Prioritize your well-being. Immerse yourself as much as possible in things that keep you happy. Focus on what gives meaning to your life. Hold tight onto your hobbies. Socialize when you can. During this period, you're going to encounter some disturbing situations. Patients die. Mistakes are made. Conflicts arise. These are all part of the job. Take your time to process your feelings, talk about them, and move on. If you're too tired to do anything, it's alright, and there's no shame to it. If you're not feeling OK, don't be afraid to ask for help. Your psychiatry attendings are there for you in case you ever need professional help.
 
-The internship period is short; try your best, but accept that you can't learn everything there is to medicine. No matter how hard you try, you will never be a perfect, infallible physician. Remind yourself that learning doesn't end with graduation. You have a lifetime of learning ahead of you. It takes a lot of responsibility and dedication to pull all your strength together to learn as much as you can, but always remember that [People's meat, is physicians' poison](https://youtu.be/c-5EcSBT_hM?si=xFnRB1G90HdaHcvp). An imperfect physician is surely better than a perfect but dead one.
+The internship period is short; try your best, but accept that you can't learn everything there is to medicine. No matter how hard you try, you will never be a perfect, infallible physician. Remind yourself that learning doesn't end with graduation. You have a lifetime of learning ahead of you. It takes a lot of responsibility and dedication to pull all your strength together to learn as much as you can, but always remember that [people's meat is physicians' poison](https://youtu.be/c-5EcSBT_hM?si=xFnRB1G90HdaHcvp). An imperfect physician is surely better than a perfect but dead one.
 
 Adequate sleep is crucial to mental well-being. Educate yourself about shift work sleep disorder and relevant conditions. Use those tips to optimize your sleep duration and quality.
 
