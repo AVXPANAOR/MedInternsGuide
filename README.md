@@ -14,7 +14,7 @@ While this guide is primarily written for Iranian junior interns looking to deve
 **Note:** This guide is not suitable for preparing for residency exams. If you are planning to take the exam soon, this guide may not be for you.
 
 ### Disclaimer
-This guide reflects the author's limited perspective, interests, educational gaps, and personal experiences. A resource or tip that has proven valuable for one person may not be effective for another. Therefore, consider everything stated here as mere suggestions and approach it with a critical mindset.
+This guide reflects the author's limited perspective, interests, educational gaps, and personal experiences. A resource or tip that has proven valuable for one person may not be effective for another. Therefore, consider everything stated here as mere suggestions and approach them with a critical mindset.
 
 **Note:** You are not expected to read __any__ of the following resources cover-to-cover during your internship. You are encouraged to read sections that you find clinically useful or simply interesting.
 
@@ -68,7 +68,7 @@ Approaches to Surgical Wound, Laceration, and Cosmetic Repair**: The go-to refer
 ---
 ### Internal Medicine & Infectious Disease
 * **Cecil Essentials of Medicine**: Easier to read and more concise than Harrison's, but enough to provide you with a solid foundation in medicine, especially when combined with UpToDate.
-* **Harvard's Intensive Review of Internal Medicine**: A collection of video lectures reviewing the entire internal medicine, focusing on practical matters and the latest evidence and guidelines. A fantastic experience.
+* **Harvard's Intensive Review of Internal Medicine**: A collection of video lectures reviewing the entire field of internal medicine, focusing on practical matters and the latest evidence and guidelines. A fantastic experience.
 * **[Blood Film Morphology - A Practical Guide](https://coursera.org/learn/blood-film-morphology)**: A concise and practical course.
 * **[Stanford's Antimicrobial Stewardship Course](https://edx.org/learn/medicine/stanford-university-antimicrobial-stewardship-improving-clinical-outcomes-by-optimization-of-antibiotic-practices)**: A course focused on rational prescription of antibiotics and combating antibiotic resistance.
 
@@ -141,7 +141,7 @@ A Case-Based Approach**: Also published by the AAN, it contains various case pre
 ---
 ### Orthopedics
 * **McRae's Orthopaedic Trauma and Emergency Fracture Management**: Concise and highly practical, both as a desk reference during shifts and primary study material. A little dense.
-* **[OrthoBullets](https://orthobullets.com)**: Massive, collectively maintained orthopedics resource, bullet-style educational topics, video lectures, clinical cases, podcasts, flash cards, etc.
+* **[OrthoBullets](https://orthobullets.com)**: Massive, collectively maintained orthopedics resource, bullet-style educational topics, video lectures, clinical cases, podcasts, flashcards, etc.
 
 ___
 ### Otorhinolaryngology
@@ -151,11 +151,11 @@ ___
 ___
 ### Psychiatry
 #### General Psychiatry
-* **Kaplan & Sadock’s Synopsis of Psychiatry**:The gold standard textbook. Covers everything you might need in clinical practice. Relatively Concise and practical. Chapters on __ADHD__, __Autism Spectrum__, __Adult Neurocognitive__, __Opioid-Related__, __Schizophrenia Spectrum__, __Bipolar__, __Depressive__, __Anxiety__, __Obsessive-Compulsive__, __Trauma-Related__, and __Sleep-Wake Disorders__ are essential. There are a few discrepancies between some tables and the DSM. Watch out for possible errors.
-* **Kaplan & Sadock’s Pocket Handbook of Clinical Psychiatry**: Briefer than synopsis. Good for review, and when you don't have enough time for reading the synopsis. The chapter on __Psychiatric History Taking__ is essential.
+* **Kaplan & Sadock’s Synopsis of Psychiatry**: The gold standard textbook. Covers everything you might need in clinical practice. Relatively Concise and practical. Chapters on __ADHD__, __Autism Spectrum__, __Adult Neurocognitive__, __Opioid-Related__, __Schizophrenia Spectrum__, __Bipolar__, __Depressive__, __Anxiety__, __Obsessive-Compulsive__, __Trauma-Related__, and __Sleep-Wake Disorders__ are essential. There are a few discrepancies between some tables and the DSM. Watch out for possible errors.
+* **Kaplan & Sadock’s Pocket Handbook of Clinical Psychiatry**: Briefer than the synopsis. Good for review, and when you don't have enough time for reading the synopsis. The chapter on __Psychiatric History Taking__ is essential.
 * **DSM-5-TR**: The universal guide map for psychiatrists. It's a must-have.
-* **The American Psychiatric Publishing Textbook of Personality Disorders**: Focusses on the Alternative DSM-5 model, which is more useful than the standard model. __the first part__ is recommended reading.
-* **[IACAPAP e-Textbook: Chapter H.3](https://iacapap.org/_Resources/Persistent/e98a7ad9ab1d202adc53363a3f92871ad29fc104/H.3-GENDER-IDENTITY-Edition-2018-REVISED.pdf)** *and* **The LGBT Casebook: Part I**: Cis-heteronormative ideas are prevalent in society and are usually unconsciously learned during personal development, and not even high-profile clinicians are immune to it. Uncovering these unconscious biases and avoiding them is crucial for providing high-quality health care to people with marginalized sexual identities. Acting based on these biases can lead to severely unethical and damaging practices such as conversion therapy. Both are a little old but still extremely relevant.
+* **The American Psychiatric Publishing Textbook of Personality Disorders**: Focuses on the Alternative DSM-5 model, which is more useful than the standard model. __the first part__ is recommended reading.
+* **[IACAPAP e-Textbook: Chapter H.3](https://iacapap.org/_Resources/Persistent/e98a7ad9ab1d202adc53363a3f92871ad29fc104/H.3-GENDER-IDENTITY-Edition-2018-REVISED.pdf)** *and* **The LGBT Casebook: Part I**: Cis-heteronormative ideas are prevalent in society and are usually unconsciously learned during personal development, and not even high-profile clinicians are immune to them. Uncovering these unconscious biases and avoiding them is crucial for providing high-quality health care to people with marginalized sexual identities. Acting based on these biases can lead to severely unethical and damaging practices such as conversion therapy. Both are a little old but still extremely relevant.
 * **Suicide Prevention: Stahl's Handbooks**: Essential reading for every medical practitioner.
 * **[Decoding Delusions](https://youtu.be/P0o1w86ODcI?si=t58-aQkV4cX2-O8L)**: A lecture by Douglas Turkington on how to understand and work with delusional patients, based on a book of the same name.
 * **[The American Psychiatric Association Membership](https://psychiatry.org/membership/join-apa)**: Apply for a membership to benefit from many virtual courses and discounts.
@@ -167,7 +167,7 @@ ___
 
 #### Neuropsychiatry
 * **[Delirium Lecture Presentation](https://docs.google.com/presentation/d/11k947AKt8-vtdsxNLqjPDmkDvH4-1U2N/edit?usp=sharing&ouid=104302192923514120566&rtpof=true&sd=true)**: A brief overview of phenomenology, diagnosis and management. Final references are useful.
-* **[The MoCA Test](https://mocacognition.com)**: Montreal Cognitive Assessment is a validated, highly sensitive tool for early detection of mild cognitive impairment. Performing this test requires taking a paid training course. E-mail the MoCA Team and explain your condition. They generously allow people from low-income countries access to their training materials.
+* **[The MoCA Test](https://mocacognition.com)**: Montreal Cognitive Assessment is a validated, highly sensitive tool for early detection of mild cognitive impairment. Performing this test requires taking a paid training course. Email the MoCA Team and explain your condition. They generously allow people from low-income countries access to their training materials.
 
 #### Psychopharmacology
 * **Prescriber's Guide: Stahl's Essential Psychopharmacology**: An excellent psychopharmacology desk reference. Comprehensive, detailed, yet very practical.
