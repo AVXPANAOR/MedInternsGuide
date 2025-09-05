@@ -48,7 +48,7 @@ This guide emerged from a collective spirit that emphasizes open access to and f
 #### Evidence-based Medicine
 You are neither expected nor able to memorize every single detail required to diagnose and manage every single pathology, but you are required to practice in accordance with the latest high-quality evidence. These two apps/websites allow you to find reliable answers to your clinical questions quickly. Get comfortable with them and learn to use them effectively and quickly.
 
-* **[UpToDate](https://wolterskluwer.com/en/solutions/uptodate)**: It's a __must have.__ It's a subscription-based service that provides you with all the relevant information, management algorithms, drug interaction checking service, etc. Basically, everything you need to navigate through a clinical situation. Many websites allow you to purchase a subscription; simply Google it in Farsi. It's also available on iMD. **Note:** Because of the insecure internet access condition in Iran, you are strongly advised to also subscribe to UpToDate's offline service.
+* **[UpToDate](https://wolterskluwer.com/en/solutions/uptodate)**: It's a __must-have.__ It's a subscription-based service that provides you with all the relevant information, management algorithms, drug interaction checking service, etc. Basically, everything you need to navigate through a clinical situation. Many websites allow you to purchase a subscription; simply Google it in Farsi. It's also available on iMD. **Note:** Because of the insecure internet access condition in Iran, you are strongly advised to also subscribe to UpToDate's offline service.
 * **[Medscape](https://medscape.com)**: The free alternative to UpToDate. The entries are significantly more concise and limited.
 * **[MDCalc](https://mdcalc.com)**: An extremely handy tool for calculating clinical scores based on different criteria, and various other clinically relevant measures.
 
@@ -69,15 +69,15 @@ Approaches to Surgical Wound, Laceration, and Cosmetic Repair**: The go-to refer
 ### Internal Medicine & Infectious Disease
 * **Cecil Essentials of Medicine**: Easier to read and more concise than Harrison's, but enough to provide you with a solid foundation in medicine, especially when combined with UpToDate.
 * **Harvard's Intensive Review of Internal Medicine**: A collection of video lectures reviewing the entire internal medicine, focusing on practical matters and the latest evidence and guidelines. A fantastic experience.
-* **[Blood Film Morphology - A Practical Guide](https://coursera.org/learn/blood-film-morphology)**: A consice and practical course.
-* **[Stanford's Antimicrobial Stewardship Course](https://edx.org/learn/medicine/stanford-university-antimicrobial-stewardship-improving-clinical-outcomes-by-optimization-of-antibiotic-practices)**: A Course focused on rational prescription of antibiotics and combating antibiotic resistance.
+* **[Blood Film Morphology - A Practical Guide](https://coursera.org/learn/blood-film-morphology)**: A concise and practical course.
+* **[Stanford's Antimicrobial Stewardship Course](https://edx.org/learn/medicine/stanford-university-antimicrobial-stewardship-improving-clinical-outcomes-by-optimization-of-antibiotic-practices)**: A course focused on rational prescription of antibiotics and combating antibiotic resistance.
 
 ---
 ### Pediatrics
-* **Rudolph's Pediatrics**: A general textbook of pediatrics. More detailed than Nelson essentials, but not as dense as Nelson textbook. Amazing chapters on __epilepsy__ and __pediatric neurology__. Very easy to read, but might be a little outdated. A personal favourite.
+* **Rudolph's Pediatrics**: A general textbook of pediatrics. More detailed than Nelson Essentials, but not as dense as Nelson Textbook. Amazing chapters on __epilepsy__ and __pediatric neurology__. Very easy to read, but might be a little outdated. A personal favourite.
 * **The Harriet Lane Handbook: The Johns Hopkins Hospital**: A highly regarded inpatient pediatrics handbook, excellent quick reference.
 * **Pediatric Decision-Making Strategies**: It has an algorithm for every common chief complaint in pediatrics. A little outdated.
-* **Fleisher & Ludwig’s 5-Minute Pediatric Emergency Medicine Consult**: A very practical and comprehensive desk reference, for a quick look up when you have no clue about what to do with a patient in the ED.
+* **Fleisher & Ludwig’s 5-Minute Pediatric Emergency Medicine Consult**: A very practical and comprehensive desk reference, for a quick look-up when you have no clue about what to do with a patient in the ED.
 * **[PedsCases](https://pedscases.com)**: A clinical podcast by the university of Alberta. A good option for times when you're not in the mood to read.
 
 ---
@@ -99,7 +99,7 @@ Approaches to Surgical Wound, Laceration, and Cosmetic Repair**: The go-to refer
 * **Textbook of Emergency Cardiology**: A practical and relatively concise textbook. Very readable and well-organized.
 * **Goldberger's Clinical Electrocardiography: A Simplified Approach**: Amazing ECG textbook that focuses on understanding, rather than memorization.
 * **[Harvard's ECG Wave-Maven](https://ecg.bidmc.harvard.edu/maven/mavenmain.asp)**: A collection of annotated ECGs, excellent for self-examination and hands-on practice.
-* **[Life In The Fast Lane](https://litfl.com)**: A Lot of ECG cases suitable for self-examination and hands-on practice, and many other critical medicine resources.
+* **[Life In The Fast Lane](https://litfl.com)**: A lot of ECG cases suitable for self-examination and hands-on practice, and many other critical medicine resources.
 
 ---
 ### Dermatology
@@ -107,8 +107,8 @@ Approaches to Surgical Wound, Laceration, and Cosmetic Repair**: The go-to refer
 
 ---
 ### Emergency Medicine & Medical Toxicology
-* **Harwood-Nuss' Clinical Practice of Emergency Medicine**: Very clinically oriented textbook. Also contains a section on __high-risk chief complaints__. More Concise and practical than Tintinalli's and Rosen's.
-* **Rosen & Barkin's 5 Minute Emergency Medicine Consult**: A very practical and comprehensive desk reference, for a quick look up during shifts.
+* **Harwood-Nuss' Clinical Practice of Emergency Medicine**: Very clinically oriented textbook. Also contains a section on __high-risk chief complaints__. More concise and practical than Tintinalli's and Rosen's.
+* **Rosen & Barkin's 5 Minute Emergency Medicine Consult**: A very practical and comprehensive desk reference, for a quick look-up during shifts.
 * **Goldfrank's Toxicologic Emergencies**: The bible of clinical toxicology.
 * **Goldfrank's Clinical Manual of Toxicologic Emergencies**: An excellent handbook to look up during shifts. Covers every toxicologic emergency, especially when combined with UpToDate.
 
@@ -122,7 +122,7 @@ Approaches to Surgical Wound, Laceration, and Cosmetic Repair**: The go-to refer
 * **Clinical Reasoning in Neurology:
 A Case-Based Approach**: Also published by the AAN, it contains various case presentations and walks you through diagnostic reasoning, work-up, and management. Aimed mostly at residents and fellows. A personal favourite.
 * **[Virtual Resident Lecture Series](https://youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-&si=cIwpB_VplL48mmEh)**: A series of periodical lectures reviewing certain topics in neurology by the American Academy of Neurology. Highly recommended.
-* **[Neurophile](https://youtube.com/@theneurophile?si=6AWFW8NGbS8R9A35)**: A collection of highly visualized and aesthetically pleasing educational neurology videos, targeting a wider range of audience, from medical students to neurovascular fellows.
+* **[Neurophile](https://youtube.com/@theneurophile?si=6AWFW8NGbS8R9A35)**: A collection of highly visualized and aesthetically pleasing educational neurology videos, targeting a wider range of audiences, from medical students to neurovascular fellows.
 
 #### Localization
 * **Localization in Clinical Neurology**: Gold standard localization text, but extremely dense.
@@ -146,12 +146,12 @@ A Case-Based Approach**: Also published by the AAN, it contains various case pre
 ___
 ### Otorhinolaryngology
 * **Handbook of Otolaryngology**: The official reference. Also, a very good handbook, especially when combined with UpToDate.
-* **[Parham's Emergency Otorhinolaryngology Cheet Sheet](https://drive.google.com/file/d/1Vv9r5V5C-sco8dKCFRu4lUeXFJTm-zJ4/view?usp=sharing)**: A very practical cheat sheet curated by a fellow then-intern. Suitable for ED and office-based practice. In Farsi.
+* **[Parham's Emergency Otorhinolaryngology Cheat Sheet](https://drive.google.com/file/d/1Vv9r5V5C-sco8dKCFRu4lUeXFJTm-zJ4/view?usp=sharing)**: A very practical cheat sheet curated by a fellow then-intern. Suitable for ED and office-based practice. In Farsi.
 
 ___
 ### Psychiatry
 #### General Psychiatry
-* **Kaplan & Sadock’s Synopsis of Psychiatry**:The gold standard textbook. Cover's everything you might need in clinical practice. Relatively Concise and practical. Chapters on __ADHD__, __Autism Spectrum__, __Adult Neurocognitive__, __Opioid-Related__, __Schizophrenia Spectrum__, __Bipolar__, __Depressive__, __Anxiety__, __Obsessive-Compulsive__, __Trauma-Relate__, and __Sleep-Wake Disorders__ are essential. There are a few discrepancies between some tables and the DSM. Watch out for possible errors.
+* **Kaplan & Sadock’s Synopsis of Psychiatry**:The gold standard textbook. Covers everything you might need in clinical practice. Relatively Concise and practical. Chapters on __ADHD__, __Autism Spectrum__, __Adult Neurocognitive__, __Opioid-Related__, __Schizophrenia Spectrum__, __Bipolar__, __Depressive__, __Anxiety__, __Obsessive-Compulsive__, __Trauma-Related__, and __Sleep-Wake Disorders__ are essential. There are a few discrepancies between some tables and the DSM. Watch out for possible errors.
 * **Kaplan & Sadock’s Pocket Handbook of Clinical Psychiatry**: Briefer than synopsis. Good for review, and when you don't have enough time for reading the synopsis. The chapter on __Psychiatric History Taking__ is essential.
 * **DSM-5-TR**: The universal guide map for psychiatrists. It's a must-have.
 * **The American Psychiatric Publishing Textbook of Personality Disorders**: Focusses on the Alternative DSM-5 model, which is more useful than the standard model. __the first part__ is recommended reading.
@@ -166,7 +166,7 @@ ___
 * **[Borderliner Notes](https://youtube.com/@borderlinernotes?si=5CwXD2toW-zeYp7o)**: A YouTube channel focused on borderline and narcissistic personality disorders, containing multiple short explanatory interviews with the greatest names in the field, and the patients themselves.
 
 #### Neuropsychiatry
-* **[Delirium Lecture Presentation](https://docs.google.com/presentation/d/11k947AKt8-vtdsxNLqjPDmkDvH4-1U2N/edit?usp=sharing&ouid=104302192923514120566&rtpof=true&sd=true)**: A brief overview of phenomeology, diagnosis and management. Final references are useful.
+* **[Delirium Lecture Presentation](https://docs.google.com/presentation/d/11k947AKt8-vtdsxNLqjPDmkDvH4-1U2N/edit?usp=sharing&ouid=104302192923514120566&rtpof=true&sd=true)**: A brief overview of phenomenology, diagnosis and management. Final references are useful.
 * **[The MoCA Test](https://mocacognition.com)**: Montreal Cognitive Assessment is a validated, highly sensitive tool for early detection of mild cognitive impairment. Performing this test requires taking a paid training course. E-mail the MoCA Team and explain your condition. They generously allow people from low-income countries access to their training materials.
 
 #### Psychopharmacology
@@ -193,9 +193,9 @@ ___
 
 ___
 ### Medicine in Low-resource Settings
-* **Tactical Medicine Essentials**: Concise, Practical, and highly illustrated. Useful for warzones and battlefields.
-* **[Borden Institute's Fundamentals of Military Medicine](https://medcoe.army.mil/borden-fundamentals-of-military-medicine)**: Useful for warzones and battelfields. With a focus on tactical management.
-* **[Borden Institute's Emergency War Surgery](https://medcoe.army.mil/borden-tb-ews)**: Useful for warzones and battelfields. More clinically oriented and practical.
+* **Tactical Medicine Essentials**: Concise, practical, and highly illustrated. Useful for warzones and battlefields.
+* **[Borden Institute's Fundamentals of Military Medicine](https://medcoe.army.mil/borden-fundamentals-of-military-medicine)**: Useful for warzones and battlefields. With a focus on tactical management.
+* **[Borden Institute's Emergency War Surgery](https://medcoe.army.mil/borden-tb-ews)**: Useful for warzones and battlefields. More clinically oriented and practical.
 * **[Riot Medicine Collection](https://riotmedicine.net)**: Excellent resource, useful during civil unrest situations.
 * **Auerbach's Wilderness Medicine**: The gold standard textbook in the field.
 
@@ -204,7 +204,7 @@ ___
 #### Medical Humanities
 Without trying to enter the shark-infested waters of the philosophy of medicine explicitly, the following books may expand your understanding of medicine as a social practice.
 
-* **Foucault, The Birth of the Clinic: An Archaeology of Medical Perception**: Interprets the advent of modern medicine history, and the epistemic ruptures that brought it about.
+* **Foucault, The Birth of the Clinic: An Archaeology of Medical Perception**: Interprets the history of modern medicine's advent, and the epistemic ruptures that brought it about.
 * **Foucault, The Birth of Biopolitics: Lectures at the Collège de France, 1978-1979**: Expanding on the concept of biopolitics and medicine as a locus of normalizing power and control.
 * **Bratton, The Revenge of the Real: Politics for a Post-Pandemic World**: A short polemical monograph antagonizing the mainstream interpretations of biopolitics as essentially negative, by endorsing a positive epidemiological view of society.
 *  **Ladyman, Understanding Philosophy of Science**: A solid understanding of the philosophy of science is essential for countering and making sense of the claims of the proponents of pseudoscientific alternative medicine practices.
